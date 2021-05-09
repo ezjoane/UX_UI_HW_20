@@ -1,0 +1,249 @@
+
+h1{
+    color:#E53248;
+    font-size: 50px;
+}
+
+h2{
+    color:#da4c5d;
+    font-size: 35px;
+}
+
+.navbar ul li{
+    height:60%;
+    margin-right: 40px;
+    
+}
+.navbar ul li a{
+
+  float: left;
+  color: #2A2D60;
+  padding-right: 20px;
+
+  font-weight: 600;
+  
+  text-align:left;
+  text-decoration: none;
+}
+.dropdown a{
+   
+    float: none;
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    margin:auto;
+}
+.dropdown-menu a{
+    float: none;
+    color: black;
+    padding: 12px 12px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-weight: 600;
+    font-size:12px;
+    font-family: 'Montserrat';
+    margin:auto;
+}
+.navbar.show{
+    display: block;
+    width:100%;
+    /*border-top: 1px solid #000;*/
+    padding-top: 0px;
+}
+.navbar a:hover, .dropdown:hover , .dropbtn:focus {
+    color: #E53248;
+}
+
+.logo{
+    font-weight: 600;
+}
+.container{
+    max-width:1200px;
+   
+}
+#carouselExampleIndicators{
+    display:block;
+    width:80%;
+    margin:0 auto;
+    
+}
+.title{
+    text-align: center;
+    font-weight: 700;
+}
+.description{
+    display:block; 
+    text-align: center;
+    margin:auto;
+    padding:5px;
+    width:35%;
+  
+}
+
+.detail1{
+    display:block; 
+    text-align: center;
+    padding:15px;
+    width:300px;
+    margin:0 auto; 
+}
+.pic1{
+    margin:0 auto;
+    text-align: center;
+   
+}
+.role{
+    display:block;
+    margin:0 auto;
+    padding:20px;
+}
+
+.detail2{
+    display:block; 
+    text-align: center;
+    padding:15px;
+    width:300px;
+    margin:0 auto; 
+}
+.pic2{
+    margin:0 auto;
+    text-align: center;
+    
+}
+.des{
+    display:block;
+    margin:0 auto;
+    padding:20px;
+}
+
+.detail3{
+    display:block; 
+    text-align: center;
+    padding:15px;
+    width:300px;
+    margin:0 auto; 
+}
+.pic3{
+    margin:0 auto;
+    text-align: center;
+    
+}
+.goal{
+    display:block;
+    margin:0 auto;
+    padding:20px;
+}
+#myrole{
+    
+    justify-content: center;
+    float:left;
+    vertical-align: center;
+}
+#project{
+   
+    justify-content: center;
+    float:left;
+    vertical-align: center;
+}
+#goals{
+    
+    justify-content: center;
+    float:left;
+    vertical-align: center;
+}
+
+.rq{
+    text-align: center;
+    font-weight: 700;
+}
+.rqw{
+    display:block; 
+    text-align: center;
+    margin:auto;
+    padding:5px;
+    width:45%;
+}
+.pp1{
+    display:block; 
+    text-align: center;
+    padding:15px;
+    width:70%;
+    margin:0 auto; 
+}
+.pp2{
+    display:block; 
+    text-align: center;
+    padding:15px;
+    width:70%;
+    margin:0 auto; 
+}
+.it{
+    text-align: center;
+    font-weight: 700;
+}
+.surveypic1{
+    margin:0 auto; 
+    display:block;  
+    padding:20px;
+}
+.surveypic2{
+    margin:0 auto; 
+    display:block;  
+    padding:20px;
+}
+.affinity{
+    width:90%;
+    display: block;
+    margin: 0 auto;
+}
+.proto{
+  width:90%;
+    display: block;
+    margin: 0 auto;
+}
+.psw{
+    display:block; 
+    text-align: center;
+    margin:auto;
+    padding:5px;
+    width:65%;
+}
+
+.value{
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+.uf{
+    width:90%;
+    display: block;
+    margin:0 auto;
+}
+.dgwf{
+    width:100%;
+    display: block;
+    margin:0 auto; 
+}
+#carouselExampleControls{
+    display:block;
+    width:90%;
+    margin:0 auto;
+}
+.uta1{
+    display:block;
+    width:70%;
+    margin:0 auto; 
+}
+.uta2{
+    display:block;
+    width:80%;
+    margin:0 auto; 
+}
+footer{
+    
+   min-width: 100%;
+  height: 200px;
+   
+}

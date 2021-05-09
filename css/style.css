@@ -86,7 +86,7 @@ h2{
     display:block; 
     text-align: center;
     padding:15px;
-    width:300px;
+    width:80%;
     margin:0 auto; 
 }
 .pic1{
@@ -104,7 +104,7 @@ h2{
     display:block; 
     text-align: center;
     padding:15px;
-    width:300px;
+    width:80%;
     margin:0 auto; 
 }
 .pic2{
@@ -122,7 +122,7 @@ h2{
     display:block; 
     text-align: center;
     padding:15px;
-    width:300px;
+    width:80%;
     margin:0 auto; 
 }
 .pic3{
@@ -169,14 +169,14 @@ h2{
     display:block; 
     text-align: center;
     padding:15px;
-    width:70%;
+    width:80%;
     margin:0 auto; 
 }
 .pp2{
     display:block; 
     text-align: center;
     padding:15px;
-    width:70%;
+    width:80%;
     margin:0 auto; 
 }
 .it{
@@ -194,12 +194,12 @@ h2{
     padding:20px;
 }
 .affinity{
-    width:90%;
+    width:80%;
     display: block;
     margin: 0 auto;
 }
 .proto{
-  width:90%;
+  width:70%;
     display: block;
     margin: 0 auto;
 }
@@ -212,33 +212,33 @@ h2{
 }
 
 .value{
-    width: 80%;
+    width: 70%;
     display: block;
     margin: 0 auto;
 }
 .uf{
-    width:90%;
+    width:75%;
     display: block;
     margin:0 auto;
 }
 .dgwf{
-    width:100%;
+    width:70%;
     display: block;
     margin:0 auto; 
 }
 #carouselExampleControls{
     display:block;
-    width:90%;
+    width:70%;
     margin:0 auto;
 }
 .uta1{
     display:block;
-    width:70%;
+    width:60%;
     margin:0 auto; 
 }
 .uta2{
     display:block;
-    width:80%;
+    width:60%;
     margin:0 auto; 
 }
 footer{
@@ -246,4 +246,17 @@ footer{
    min-width: 100%;
   height: 200px;
    
+}
+.hfp{
+    width:70%;
+}
+.videobtn{
+    border-radius: 8px;
+    padding:9px 24px;
+    background-color:#2A2D60;
+    color: white;
+    margin:0.3%;
+}
+.videobtn:hover{
+    background-color:#181935;
 }
